@@ -78,8 +78,10 @@ The Timer0 is also used in fast PWM non- inverted mode but with a prescaler of 2
 
 
 ## 7. ADVANCED TASK 1
-###### 7.1. Objective: To get the pixel values of the centroid of any shape of an object.
-###### 7.2. Approach: Firstly, here the image is being captured by an external camera and pre-processed in python compiler using opencv library.
+###### 7.1. Objective: 
+To get the pixel values of the centroid of any shape of an object.
+###### 7.2. Approach: 
+Firstly, here the image is being captured by an external camera and pre-processed in python compiler using opencv library.
 The outline of the object is being traced and later the center of the contour i.e. the centroid location is determinrd.
 
 7.2.1. The image is converted to grayscale.
